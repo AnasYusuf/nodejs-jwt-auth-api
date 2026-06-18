@@ -1,0 +1,49 @@
+POST /api/auth/register
+
+↓
+
+Route (auth.routes)
+
+↓
+
+Controller (auth.controller)
+
+↓
+
+Service (auth.service)
+
+↓
+
+Repository (user.repository)
+
+↓
+
+MySQL
+
+-------------------------------
+
+POST /api/auth/login
+
+↓
+
+Route
+
+↓
+
+Controller
+
+↓
+
+Service
+
+↓
+
+Repository
+
+↓
+
+JWT generated
+
+↓
+
+Response returned

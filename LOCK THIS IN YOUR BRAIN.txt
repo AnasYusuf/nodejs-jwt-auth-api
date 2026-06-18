@@ -1,0 +1,7 @@
+Route       → Where should the request go?
+
+Middleware  → Should the request be allowed?
+
+Controller  → Receive request and send response
+
+Service     → Perform the actual work/business logic

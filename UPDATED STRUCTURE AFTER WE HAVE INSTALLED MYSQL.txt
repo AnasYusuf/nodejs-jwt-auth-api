@@ -1,0 +1,13 @@
+Request
+  ↓
+Middleware 
+  ↓
+Route
+  ↓
+Controller
+  ↓
+Service
+  ↓
+Repository
+  ↓
+MySQL

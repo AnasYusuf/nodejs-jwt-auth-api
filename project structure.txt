@@ -1,0 +1,25 @@
+nodejs-api-boilerplate/
+
+src/
+
+  config/
+
+  controllers/
+
+  middlewares/
+
+  routes/
+
+  services/
+
+  validators/
+
+  utils/
+
+  app.js
+
+server.js
+
+.env
+
+.env.example

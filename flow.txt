@@ -1,0 +1,11 @@
+Request (browser)
+  ↓
+Auth Middleware (app.js)  ← (THIS is missing)
+  ↓
+Route (routes.js)
+  ↓
+Controller (controller)
+  ↓
+Service (service)
+  ↓
+Response
