@@ -93,7 +93,7 @@ Client
 
 ---
 
-## Authentication Flow
+## 🔐 Authentication Flow
 
 1. User registers with credentials  
 2. User logs in with email/password  
