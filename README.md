@@ -105,12 +105,13 @@ Client
 
 ---
 
-## Environment Variables
+## ⚙️ Environment Variables
 
-Create a `.env` file in the root directory:
+Create a `.env` file in the project root.
 
 ```env
 PORT=3000
+
 JWT_SECRET=your_jwt_secret
 
 DB_HOST=localhost
@@ -121,7 +122,7 @@ DB_NAME=nodejs_boilerplate
 
 ---
 
-## Installation & Setup
+## 📦 Installation & Setup
 
 ```bash
 git clone https://github.com/<your-username>/nodejs-jwt-auth-api.git
