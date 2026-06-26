@@ -6,7 +6,7 @@ This project simulates real-world backend authentication systems used in modern 
 
 ---
 
-## Key Highlights
+## 🚀 Key Highlights
 
 - Secure user authentication system using JWT  
 - Scalable layered architecture (Controller → Service → Repository)  
@@ -18,7 +18,7 @@ This project simulates real-world backend authentication systems used in modern 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - Node.js  
 - Express.js  
@@ -30,7 +30,7 @@ This project simulates real-world backend authentication systems used in modern 
 
 ---
 
-## System Architecture
+## 🏗️  System Architecture
 
 This project follows a clear layered architecture:
 
@@ -76,7 +76,7 @@ Client
 
 ---
 
-## API Endpoints
+## 🔗 API Endpoints
 
 ### Authentication
 
@@ -143,7 +143,7 @@ npm run dev
 
 ---
 
-## What this project demonstrates
+## 🧠 What this project demonstrates
 
 - Backend system design
 - API architecture design
