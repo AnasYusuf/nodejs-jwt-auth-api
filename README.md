@@ -33,6 +33,8 @@ This project simulates real-world backend authentication systems used in modern 
 ## System Architecture
 
 This project follows a clear layered architecture:
+
+```text
 Client
 → Routes
 → Middleware
@@ -40,6 +42,7 @@ Client
 → Service
 → Repository
 → MySQL Database
+```
 
 ---
 
